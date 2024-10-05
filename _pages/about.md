@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Phuoc, a master student in [Mathématiques, Vision, Apprentissage (MVA)](https://www.master-mva.com/) at [École normale supérieure Paris-Saclay](https://ens-paris-saclay.fr/).
+Hi! I'm Phuoc, a graduate student in [Mathématiques, Vision, Apprentissage (MVA)](https://www.master-mva.com/) at [École normale supérieure Paris-Saclay](https://ens-paris-saclay.fr/).
 
 <!-- You can reach me at phuochoquang97@gmail.com -->
 
